@@ -1,6 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://docs.brew.sh/rubydoc/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class OxkerCreechy < Formula
   desc "A simple tui to view & control docker containers "
   homepage "https://github.com/creechy/oxker"
