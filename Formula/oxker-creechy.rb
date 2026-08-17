@@ -1,8 +1,8 @@
 class OxkerCreechy < Formula
   desc "Simple tui to view & control docker containers"
   homepage "https://github.com/creechy/oxker"
-  url "https://github.com/creechy/oxker/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "92f0b42f837fd684a6b8c795edd6b456e8d8687f41340c3e3bcd4cd292ff1424"
+  url "https://github.com/creechy/oxker/archive/refs/tags/v0.0.4.tar.gz"
+  sha256 "3ddd9d75798ce6c62eb5fea8de227ee772b7b0645dbc04eab2e7bf4aa7d310c4"
   license "MIT"
 
   depends_on "rust" => :build
